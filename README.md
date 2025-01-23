@@ -1,12 +1,20 @@
 # Mi-primer-repositorio
-Pasos y elementos de un repositorio
+<h1>Pasos y elementos de un repositorio</h1>
 
--Estado de proyecto: EN CONSTRUCCIÓN
+<h2>Estado de proyecto: EN CONSTRUCCIÓN</h2>
 
--22 de enero 2025
+<h3>22 de enero 2025</h3>
+<ul>
+  <li>Creación de cuenta</li>
 
-  --Creación de cuenta
+  <li>Creación de "Mi primer repositorio"</li>
 
-  --Creación de "Mi primer repositorio"
+  <li>Actualizacion de README.md</li>
+</ul>
+<h3>23 de enero 2025</h3>
 
-  --Actualizacion de README.md\
+<ul>
+  <li>Carpeta en local de actualización creada y configurada con GitBash</li>
+  <li>Clonación del proyecto</li>
+  <li>Actualización del README.md</li>
+</ul>
