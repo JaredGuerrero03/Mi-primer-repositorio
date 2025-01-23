@@ -5,6 +5,6 @@ Pasos y elementos de un repositorio
 
 -22 de enero 2025
 
---Creación de cuenta
---Creación de "Mi primer repositorio"
---Actualizacion de README.md
+--Creación de cuenta\n
+--Creación de "Mi primer repositorio"\n
+--Actualizacion de README.md\n
